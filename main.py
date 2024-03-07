@@ -279,6 +279,6 @@ def get_amino_acids_from_dna(DNA: list[str]):
     print_DNA_mRNA_aminoacid_table(result[0], result[1], result[2])
     
     
-get_amino_acids_from_dna(list("AACTACGATGACTATGGAGAACCCACTCGGGTTGCACTAAA"))
+get_amino_acids_from_dna(list("AACTACCGATGACTATGGAGAACCCACTCGGGTTGCACTAAA"))
 
 
