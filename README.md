@@ -9,3 +9,4 @@
  (stop: "A", "T", "T" or "A", "T", "C" or "A", "C", "T")
 
  For example: get_amino_acids_from_dna(list("AACTACCGATGACTATGGAGAACCCACTCGGGTTGCACTAAA"))
+![grafik](https://github.com/ArtusLama/BiologieGeneticCode/assets/85751661/7439e973-681b-4692-81e1-6e8b8a1d0108)
